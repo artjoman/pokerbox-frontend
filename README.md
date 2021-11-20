@@ -1,3 +1,21 @@
+# Junction 2021 Pokerbox submission
+
+Work in Progress... Mostly mocks with some connected APIs
+
+v0.0.1 - added navigation. Main screen. Generic buttons
+v0.0.2 - added assets - cards and chips
+v0.0.3 - added assets - field background
+v0.0.4 - clickable prototype. No actual connection to APIs ( yet )
+
+
+# How to launch
+
+- Open Android studio and launch adb
+- Setup and launch a virtual device. Pixel 4 was used for development
+- Launch the app using `npm run android` command
+- Application should be opened in the Android emulator
+
+
 # React Native School TypeScript Expo Template
 
 A simple Expo template with the following features:
@@ -31,12 +49,3 @@ expo init --template @react-native-school/expo-typescript-template
 
 List Screen
 ![List Screen](./assets/screenshots/list.png)
-
-Text Screen
-![Text Screen](./assets/screenshots/text.png)
-
-Form Screen
-![Form Screen](./assets/screenshots/form.png)
-
-Button Screen
-![Button Screen](./assets/screenshots/button.png)
