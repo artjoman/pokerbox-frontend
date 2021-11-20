@@ -47,5 +47,9 @@ expo init --template @react-native-school/expo-typescript-template
 
 ## Screenshots
 
-List Screen
-![List Screen](./assets/screenshots/list.png)
+Screen 1
+![Screen1](./assets/screenshots/screen1.png)
+![Screen2](./assets/screenshots/screen2.png)
+![Screen3](./assets/screenshots/screen3.png)
+![Screen4](./assets/screenshots/screen4.png)
+![Screen5](./assets/screenshots/screen5.png)
